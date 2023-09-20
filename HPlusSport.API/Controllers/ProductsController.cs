@@ -1,4 +1,19 @@
-﻿using HPlusSport.API.Models;
+/*
+
+This codebase focuses:
+- on advanced data retrieval on GET
+    - filtering
+    - pagination
+    - sorting
+    - searching
+- API Versoning
+    - using url
+    - using query string
+    - using headers
+*/
+
+
+using HPlusSport.API.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
